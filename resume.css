@@ -45,10 +45,8 @@ li:hover{
   margin: 1%;
 }
 section{
-  backgroud-color: rgba(0,105,25,0.3);
-
-
-
+  /* NHO: fixed typo */
+  background-color: rgba(0,105,25,0.3);
 }
 .nyron {
     border-radius: 50%;
